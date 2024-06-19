@@ -2,7 +2,7 @@
 
 meu  nome é Lucas Aguiar
 
-- Estudo no alura
+- Estudo na [Alura] https://www.alura.com.br)
 - estou me desenvolvendo no java script
 - ultilizo esse espaço para minha orgaização e compartilhamento dos meus projetos desenvolvidos
 
